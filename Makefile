@@ -1,6 +1,6 @@
 CXX=g++
 #CXX=g++-4.7	# for Mac OS X users
-CAPD_DIR=$(HOME)/local/capd-DynSys3
+CAPD_DIR=$(HOME)/local/capd/DynSys3
 CAPD_BIN=$(CAPD_DIR)/bin
 
 TARGET = ex5
